@@ -1,14 +1,5 @@
 # Boas vindas ao meu repositório para o Teste Técnico da Shopper
 
-<p>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pedrohassen/shopper-teste-tecnico?color=6E40C9&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/pedrohassen/shopper-teste-tecnico?color=6E40C9&style=flat-square">
-  <a href="https://github.com/pedrohassen/shopper-teste-tecnico/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedrohassen/shopper-teste-tecnico?color=6E40C9&style=flat-square">
-  </a>
-</p>
-<hr>
-
 ## Sobre
 
 Este repositório contém a minha solução para o teste técnico da empresa <strong>Shopper</strong>, referente a uma oportunidade de vaga para o cargo de <strong>Desenvolvedor Fullstack Jr</strong>.
